@@ -1,0 +1,21 @@
+Ethan Borrowman
+
+Software Engineering Project
+
+Procrastination Station Favorited Game Screen
+
+•	When this screen is opened, it displays a list of all of the games the user has marked as a favorite in alphabetical order
+
+•	The user can replay a favorited game by simply clicking on it
+
+•	If the user wants to search for a certain game, they can hit the magnifying glass shaped button in the top right corner
+
+•	Like most other screens on the app, at the bottom there will be a button that the user can press that will randomly select one of the games from the list
+
+•	If a user wants to delete a game form the list, they simply need to swipe left on that app
+
+•	A confirmation message will appear, and if the confirm is deleted it will remove that game from the user’s favorite list in the database
+
+•	A message will then appear telling the user they can find the game in the app store if they want to play it again
+
+•	If a user wants to download the actual game onto their phone, they can click the icon that appears to the right of the name of every game and it will send them to the Apple App Store or Google Play Store depending on which system their device runs on
