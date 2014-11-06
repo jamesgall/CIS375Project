@@ -1,0 +1,27 @@
+Ethan Borrowman
+November 6, 2014
+Software Engineering Project
+Procrastination Station Home Screen
+•	The first time a user opens this app, a screen will come up asking for account information and game type preferences
+
+•	Every time the user opens the game afterwards, this will be the screen they will see
+
+•	The main screen will consist of one primary button in the center of the screen with three smaller buttons below it and a settings button in the corner
+
+•	The primary button will be the Play Random Game button
+  o	Once this button is pressed, the app will take the user to the game playing screen where they will play a randomly selected game from the database
+
+•	The first of the next three rectangular buttons will be the Game Type button
+  o	Once pressed, this button brings up a drop down box
+  o	The drop down box contains a list of all the games the user selected for their game type preferences
+  o	The user can make a selection from that list of which type of random games they wish to encounter
+  o	The list can be changed on the settings screen
+
+•	The next button will be the most popular games button
+  o	Once pressed, this button will take the user to a screen with a list of the most often favorite games, separated by day, week and all-time
+
+•	The last rectangular button is the users favorite games button
+  o	Once pressed, the user is taken to a screen that lists all of the games he/she has favorite
+
+•	The last button is the settings button in the bottom right corner
+  o	This button takes the user to the settings screen where they can enter credit or gift card info, preferred game data, parent lock, free or paid games, Wi-Fi or data downloading
