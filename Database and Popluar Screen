@@ -1,0 +1,16 @@
+//All games are saved into /sdcard/Procrastination Station
+
+Favorites Screen Flow of Events:
+Access when user clicks favorites button on game screen.
+Saves game data to users sdcard or internal storage
+App returns a plus one to the database adding to the total of people who favorited the app
+The top 50 games that are favorited are shown to the user.
+User can select a game or choose a random favorite by clicking random in the favorite screen.
+
+
+Database:
+Database pulls top 100 games from app store
+The database updates it’s list weekly, replacing the current database.
+When a user joins the app they are assigned their own list of all the apps in the database
+When a user calls a random game, a pseudo random game is selected from their list and that app is downloaded. The app is then removed from the users list.
+When the database is updated the lists are refreshed
