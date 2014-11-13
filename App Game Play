@@ -1,0 +1,7 @@
+Flow of Events for Game Players Page for Procrastination Station
+1. Screen is opened when game is selected 
+2. Screen allows user to play the game selected
+3. After the game is played the user must click save game button or back to search button or home button or played saved game
+4. If the saved game or user wishes to open game; the database will open
+5. After data is accessed or saved return to play screen
+6. Close database
