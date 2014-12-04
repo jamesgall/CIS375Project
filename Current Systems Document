@@ -1,0 +1,20 @@
+2. Current Systems
+
+	Currently in circulation in both the Apple App Store and Google Play Store are all-in-one apps that either contain 
+	multiple games or tools in one single app. One of the most popular mobile applications of this style is the Appzilla
+	series designed by Fossil Software. Currently developing Appzilla 4, Appzilla 2 boasted containing over 120 tools and
+	had 2 million downloads (http://download.cnet.com/AppZilla-2-FREE/3000-2094_4-75501551.html). As far as all-in-one 
+	game apps go, Nordcurrent Ltd released 101-in-1 Games HD that offers users 109 games in one app and has 13,746
+	downloads in the Apple App Store (Apple App Store). These apps may work well, but there are a couple of issues we wish
+	to resolve with Procrastination Station. One of the primary problems associated with current all-in-one apps is the 
+	amount of storage space they occupy on the users mobile device. For example, Trinity Interactive’s GameBox 1 app 
+	(2,813 Apple Downloads) requires 347 MB of space(Apple App Store). Since our database stores all of the games and 
+	uploads them to the user’s phone via Internet it will occupy much less storage on the user’s device. Another quality
+	of the Procrastination Station that we believe is an improvement is the randomness of game selection. Sometimes the
+	most difficult choice is which app to play or download, and our random feature takes all of the decision making out 
+	of the process. However, if a user enjoys a particular game, they can save it as a favorite and return to it whenever
+	they please. One of the last major upgrades over current systems virtually unlimited number of games offered. If a
+	person plays any of the all-in-one apps presently on the market for long enough, they will have played every game 
+	offered. On the other hand, our database is constantly being refreshed with new, popular games. The Procrastination
+	Station will use less storage, allow for random game play, and be virtually limitless in options, qualities current 
+	systems do not offer. 
