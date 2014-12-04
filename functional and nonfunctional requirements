@@ -1,0 +1,16 @@
+3.2 Functional requirements 
+3.2.1 - The app shall allow users to download games.
+3.2.2 – The app shall allow users to remove games.
+3.2.3 – The app shall allow users to play games.
+3.2.4 – The app shall refresh the game database.
+
+
+3.3 Nonfunctional requirements
+3.3.1 – The app must be usable to all ages.
+3.3.2 – The app must be available 24/7.
+3.3.3 – The app must have shorter than 5 second load times.
+3.3.4 – The app database is populated by the app store.
+3.3.5 – the app database is refreshed every 24 hours.
+3.3.6 – App will run on Iphone and Android devices.
+3.3.7 – App will be displayed for download on the app store.
+3.3.8 – App will come with legal restrictions.
