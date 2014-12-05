@@ -1,0 +1,14 @@
+	Our Proposed System
+•	The app will run on either an android or and iPhone smartphone device
+•	The app will be in constant queue with our database
+•	The database will be will be pulling the top 100 games from the respective app stores each week, refreshing its list
+
+
+	Create an account Screen 
+
+•	Simply the app will get the user information
+	from the play store
+•	Gender
+•	Name
+•	Country
+•	Age
